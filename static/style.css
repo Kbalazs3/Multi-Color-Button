@@ -1,0 +1,32 @@
+.container {
+  min-height: 21px;
+  display: block;
+  padding: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+
+#flip-flop{
+  font-size: 28px;
+  border-radius: 12px;
+}
+
+#change-color{
+  font-size: 28px;
+  border-radius: 12px;
+}
+
+#change-neighbour-color{
+    font-size: 28px;
+    border-radius: 12px;
+}
+
+#count{
+  font-size: 28px;
+  border-radius: 12px;
+}
+
+#neighbour{
+  font-size: 28px;
+  border-radius: 12px;
+}
